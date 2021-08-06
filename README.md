@@ -1,0 +1,1 @@
+This solution is based on AlpineJS, and it uses `<template>` tag for the component. It's not perfect, but it gives the idea. Still learning AlpineJS
